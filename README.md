@@ -1,0 +1,2 @@
+# GymPal
+GymPal is a user-friendly app designed as a university project, offering a variety of useful functionalities to simplify fitness management. Users can effortlessly add, edit, or delete exercises, customize sets with reps and weight, and even provide detailed descriptions for each exercise. The app also allows users to add new days for calorie counting, adjust their calorie target, and conveniently compare their current calorie intake with the desired target. GymPal was realized in Android Studio using Kotlin.
