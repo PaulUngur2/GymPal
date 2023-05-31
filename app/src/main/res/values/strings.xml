@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">GymPal</string>
+    <string name="exercise_detail" />
+    <string name="number_of_reps">Number of Reps</string>
+    <string name="add_set">Add Set</string>
+    <string name="add_exercise_description">Add New Exercise</string>
+    <string name="exercise_description">Exercise description</string>
+    <string name="exercise_name">Exercise name</string>
+    <string name="add_exercise">Add Exercise</string>
+    <string name="new_exercise">Add New Exercise</string>
+    <string name="weight">Weight</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="new_exercise_name">New Exercise Name</string>
+    <string name="change_name">Change</string>
+    <string name="edit_exercise">Edit Exercise</string>
+    <string name="calorie">CaloriesPal</string>
+    <string name="counting_calories">Counting Calories</string>
+    <string name="target_calories">Target Calories:</string>
+    <string name="current_calories">Current Calories:</string>
+    <string name="enter_extra_calories">Enter extra calories</string>
+    <string name="add_calories">Add Calories</string>
+    <string name="day_title">Day Title</string>
+    <string name="save">Save</string>
+    <string name="new_counting_calories">New Day</string>
+    <string name="current_day">Current Day</string>
+    <string name="new_exercise_description">New Exercise Description</string>
+    <string-array name="helper_options1">
+        <item>Sets Helper</item>
+        <item>Calorie Helper</item>
+    </string-array>
+    <string-array name="helper_options2">
+        <item>Calorie Helper</item>
+        <item>Sets Helper</item>
+    </string-array>
+</resources>
